@@ -11,21 +11,34 @@ The purpose of this project is to set up a Laravel development environment by in
 ---
 
 The objectives that have been achieved in this project are;
+<br>
 Installing the required softwares
+<br>
 Configuring php.ini
+<br>
 Installing the basic laravel set up
+<br>
 Running the laravel project
+<br>
 Modifying the laravel Project
+<br>
 
 ---
 
 Operating System: Arch Linux
+<br>
 PHP Version: 8.5.9
+<br>
 Laravel Version: 5.31.1
+<br>
 Composer Version: 2.10.2
+<br>
 Git Version: 2.55.0
+<br>
 MariaDB Version: 12.3.2-MariaDB, client 15.2 for Linux (x86_64) using readline 5.1
+<br>
 VS Code Version: 1.131.0
+<br>
 
 ---
 
@@ -110,4 +123,3 @@ Laravel is important in client-server development because it provides a structur
 The knowledge I gained from this activity will help me in future software development projects by giving me confidence in setting up development environments and resolving configuration issues. It also introduced me to Laravel's development workflow, which will make it easier to build dynamic, database-driven web applications. Overall, this activity provided a solid foundation for learning Laravel and strengthened my understanding of client-server web development.
 
 ---
-
