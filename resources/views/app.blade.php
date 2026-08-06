@@ -60,7 +60,7 @@
         <h1>Course: BSIT</h1>
         <h1>Section: 3D</h1>
         <h1>Subject: ITST 302</h1>
-        <h1>Current Date: 2026 - 08 - 07</h1>
+        <h1>Current Date: 2026-08-07</h1>
     </center>
 </body>
 
