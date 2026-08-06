@@ -10,7 +10,7 @@ The purpose of this project is to set up a Laravel development environment by in
 
 ---
 
-The objectives that have been achieved in this project are;
+The objectives that have been achieved in this project are:
 <br>
 Installing the required softwares
 <br>
